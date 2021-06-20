@@ -1,0 +1,30 @@
+h1{
+    color:blue;
+    background-color : blueviolet
+}
+.header{
+    background-color: aqua;
+    display:flex;
+    justify-content: center;
+}
+.menu{
+    display: flex;
+    justify-content:flex-end ;
+}
+p,h2{
+    text-align: center;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.img{
+    border: 3px solid aqua;
+    border-radius: 10px;
+}
